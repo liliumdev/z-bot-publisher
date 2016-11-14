@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Z-Bot-Publisher">
+</Property><Property Name="Solution File" Value="D:\found.000\dir0000.chk\Z-Bot-Publisher\Z-Bot-Publisher.sln">
+</Property><Property Name="User Options File" Value="D:\found.000\dir0000.chk\Z-Bot-Publisher\Z-Bot-Publisher.suo">
+</Property><Property Name="Date" Value="4. septembar 2013">
+</Property><Property Name="Time" Value="22:37">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Z-Bot-Publisher.sln" Description="File successfully backed up as D:\found.000\dir0000.chk\Z-Bot-Publisher\Z-Bot-Publisher.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Z-Bot-Publisher.suo" Description="File successfully backed up as D:\found.000\dir0000.chk\Z-Bot-Publisher\Z-Bot-Publisher.suo.old">
+</Event><Event ErrorLevel="0" Project="Z-Bot-Publisher" Source="Z-Bot-Publisher\Z-Bot-Publisher.vcproj" Description="Converting project file 'D:\found.000\dir0000.chk\Z-Bot-Publisher\Z-Bot-Publisher\Z-Bot-Publisher.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Z-Bot-Publisher" Source="Z-Bot-Publisher\Z-Bot-Publisher.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Z-Bot-Publisher" Source="Z-Bot-Publisher\Z-Bot-Publisher.vcproj" Description="Done converting to new project file 'D:\found.000\dir0000.chk\Z-Bot-Publisher\Z-Bot-Publisher\Z-Bot-Publisher.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Z-Bot-Publisher" Source="Z-Bot-Publisher\Z-Bot-Publisher.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Z-Bot Launcher" Source="Z-Bot Launcher\Z-Bot Launcher.vcproj" Description="Converting project file 'D:\found.000\dir0000.chk\Z-Bot-Publisher\Z-Bot Launcher\Z-Bot Launcher.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Z-Bot Launcher" Source="Z-Bot Launcher\Z-Bot Launcher.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Z-Bot Launcher" Source="Z-Bot Launcher\Z-Bot Launcher.vcproj" Description="Done converting to new project file 'D:\found.000\dir0000.chk\Z-Bot-Publisher\Z-Bot Launcher\Z-Bot Launcher.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Z-Bot Launcher" Source="Z-Bot Launcher\Z-Bot Launcher.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Z-Bot Helper" Source="Z-Bot Helper\Z-Bot Helper.vcproj" Description="Converting project file 'D:\found.000\dir0000.chk\Z-Bot-Publisher\Z-Bot Helper\Z-Bot Helper.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Z-Bot Helper" Source="Z-Bot Helper\Z-Bot Helper.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Z-Bot Helper" Source="Z-Bot Helper\Z-Bot Helper.vcproj" Description="Done converting to new project file 'D:\found.000\dir0000.chk\Z-Bot-Publisher\Z-Bot Helper\Z-Bot Helper.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Z-Bot Helper" Source="Z-Bot Helper\Z-Bot Helper.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Z-Bot-Publisher.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Z-Bot-Publisher.sln" Description="Converted">
+</Event></UpgradeLog>
